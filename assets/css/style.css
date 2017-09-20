@@ -1,0 +1,11 @@
+.animalBtn{
+	margin:5px;
+	color:gray;
+	background-color:peachpuff;
+	font-size: 20px;
+	font-family: Times;
+}
+.animalBtn:hover{
+	color:blue;
+	font-weight: bold;
+}
